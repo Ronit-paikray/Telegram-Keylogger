@@ -1,0 +1,53 @@
+# DatrixLabs License v1.0
+© DatrixLabs 2025. All Rights Reserved.  
+This license governs the usage, distribution, and modification of all repositories maintained by Datrix Labs.
+
+---
+## Usage Terms
+This codebase is protected under the DatrixLabs License v1.0. It is not open-source, and may only be used under the following conditions:
+
+---
+### Allowed
+- Use and modification only by official Datrix Labs members.
+- Use for internal projects, learning, research, or publication under Datrix Labs.
+- Personal use by members (non-commercial only).
+- Code can be published, modified, or used commercially by members only with prior written permission from the organization owner.
+
+---
+### Not Allowed Without Permission
+- Use, modification, or forking by non-members.
+- Commercial use (e.g., resale, integration into paid services) without written approval.
+- Rebranding or removal of Datrix Labs credits.
+- Redistribution or public release of the code outside Datrix Labs.
+- Hosting code on public forks or third-party platforms without approval.
+
+---
+## Special Rules
+- Modification Allowed  
+  Only Datrix Labs members may modify this code. No forks from outside the organization.
+- Credit Must Be Preserved  
+  All code must retain original authorship and Datrix Labs attribution.
+- No Commercial Use Without Approval  
+  Commercial usage requires explicit written permission from the organization owner.
+- Audit Anytime  
+  Datrix Labs may audit usage or contributions at any time.
+- Private Collaboration  
+  External contributors must be approved and added to the GitHub organization.
+- No Redistribution  
+  Code cannot be shared, cloned, or forked outside the organization without consent.
+
+---
+## Legal Note
+Violation of these terms may result in:
+- Removal from Datrix Labs
+- Revocation of access to all repositories
+- DMCA takedown or legal enforcement
+
+---
+## Author
+This specific implementation or modification was developed by:
+Author Name: Ronit Paikray  
+
+---
+This codebase is protected under the DatrixLabs License.  
+For internal innovation, learning, and secured collaboration only.
